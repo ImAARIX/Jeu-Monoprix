@@ -1,0 +1,24 @@
+h1{
+	font-weight: bold;
+	font-size: 35px;
+	text-align: center;
+	color: white;
+}
+header{
+	background-color: black;
+}
+body{
+	background:url("/img/baba.jpg") no-repeat;
+	background-size: 100%;
+}
+div.conn{
+	width: 100%;
+	text-align: center;
+	padding-top: 300px;
+}
+p{
+	font-weight: bold;
+	color: red;
+	size: 50px;
+	text-align: center;
+}
